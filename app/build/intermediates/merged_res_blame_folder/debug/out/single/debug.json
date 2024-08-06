@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/drawable_ic_moon.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/drawable/ic_moon.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/drawable_ic_alarm.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/drawable/ic_alarm.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/layout_layout_max_step_dialog.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/layout_max_step_dialog.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/layout_activity_login.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/drawable_edittext_border.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/drawable/edittext_border.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/menu_nav_drawer_menu.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/menu/nav_drawer_menu.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/drawable_no_profile_picture.png.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/drawable/no_profile_picture.png"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/layout_activity_record_sleep.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_record_sleep.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/drawable_coin.png.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/drawable/coin.png"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/drawable_golden_apple.png.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/drawable/golden_apple.png"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/layout_layout_max_water_dialog.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/layout_max_water_dialog.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/layout_activity_signup.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/layout_activity_step_counter.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_step_counter.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/layout_activity_water_intake.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_water_intake.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/drawable_healing_potion.png.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/drawable/healing_potion.png"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/layout_activity_shop.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_shop.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/drawable_water_cup.png.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/drawable/water_cup.png"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/layout_nav_header.xml.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/nav_header.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

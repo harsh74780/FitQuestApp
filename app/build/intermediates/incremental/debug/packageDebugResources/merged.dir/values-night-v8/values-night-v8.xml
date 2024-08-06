@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#414BB2</color>
+    <color name="day">#fd9f00</color>
+    <color name="green">#9fd26d</color>
+    <color name="lightBlue">#00F6F6</color>
+    <color name="middleGradient">#b77bb9</color>
+    <color name="night">#7e82f6</color>
+    <color name="primaryTextColor">#FFFFFFFF</color>
+    <color name="red">#ff6565</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#fac710</color>
+    <style name="Base.Theme.FitQuest" parent="Theme.Material3.DayNight">
+        
+        
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.FitQuest" parent="Base.Theme.FitQuest"/>
+</resources>

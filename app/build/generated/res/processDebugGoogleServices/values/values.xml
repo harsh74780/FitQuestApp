@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">565448886410</string>
+    <string name="google_api_key" translatable="false">AIzaSyCjpdG8_x-DLojXnB0mD1AUJKJMlf9jKDY</string>
+    <string name="google_app_id" translatable="false">1:565448886410:android:ec248827b70db8b7d00573</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjpdG8_x-DLojXnB0mD1AUJKJMlf9jKDY</string>
+    <string name="google_storage_bucket" translatable="false">fitquest1-6f515.appspot.com</string>
+    <string name="project_id" translatable="false">fitquest1-6f515</string>
+</resources>

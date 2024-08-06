@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#414BB2</color>
+    <color name="day">#fd9f00</color>
+    <color name="green">#9fd26d</color>
+    <color name="lightBlue">#00F6F6</color>
+    <color name="middleGradient">#b77bb9</color>
+    <color name="night">#7e82f6</color>
+    <color name="primaryTextColor">#FF000000</color>
+    <color name="red">#ff6565</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#fac710</color>
+    <string name="_0">0</string>
+    <string name="_1_water">-1 water</string>
+    <string name="_1water">+1 water</string>
+    <string name="app_name">FitQuest</string>
+    <string name="close">Close</string>
+    <string name="gcm_defaultSenderId" translatable="false">565448886410</string>
+    <string name="google_api_key" translatable="false">AIzaSyCjpdG8_x-DLojXnB0mD1AUJKJMlf9jKDY</string>
+    <string name="google_app_id" translatable="false">1:565448886410:android:ec248827b70db8b7d00573</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjpdG8_x-DLojXnB0mD1AUJKJMlf9jKDY</string>
+    <string name="google_storage_bucket" translatable="false">fitquest1-6f515.appspot.com</string>
+    <string name="open">Open</string>
+    <string name="project_id" translatable="false">fitquest1-6f515</string>
+    <string name="set_target">Set Target</string>
+    <string name="set_time">Set Time</string>
+    <string name="you_drank_this_many_cups_of_water">You drank this many cups of water:</string>
+    <style name="Base.Theme.FitQuest" parent="Theme.Material3.DayNight">
+
+
+
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.FitQuest" parent="Base.Theme.FitQuest"/>
+</resources>

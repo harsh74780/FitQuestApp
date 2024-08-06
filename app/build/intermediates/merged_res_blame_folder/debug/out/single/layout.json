@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-mergeDebugResources-36:/layout/activity_login.xml",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-mergeDebugResources-36:/layout/layout_max_water_dialog.xml",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/layout_max_water_dialog.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-mergeDebugResources-36:/layout/activity_water_intake.xml",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_water_intake.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-mergeDebugResources-36:/layout/layout_max_step_dialog.xml",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/layout_max_step_dialog.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-mergeDebugResources-36:/layout/activity_signup.xml",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-mergeDebugResources-36:/layout/activity_record_sleep.xml",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_record_sleep.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-mergeDebugResources-36:/layout/activity_step_counter.xml",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_step_counter.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-mergeDebugResources-36:/layout/nav_header.xml",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/nav_header.xml"
+    },
+    {
+        "merged": "ca.unb.mobiledev.fitquest.app-mergeDebugResources-36:/layout/activity_shop.xml",
+        "source": "ca.unb.mobiledev.fitquest.app-main-39:/layout/activity_shop.xml"
+    }
+]
